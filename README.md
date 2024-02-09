@@ -1,12 +1,12 @@
-# Hola, soy Jefferson Dávila 👋
+# Hello, I'm Jefferson Dávila 👋
 
-## Bienvenido a mi perfil de GitHub!
+## Welcome to my GitHub profile!
 
-### Un poco sobre mí:
+### A little about me:
 
-- 🌱 **Pasiones:** Me fascina la programación, la inteligencia artificial, y la ciencia de datos.
-- 💡 **Objetivo:** Creo en el aprendizaje constante y la evolución para mejorar cada día.
-- 👨‍💻 **Tecnologías:** Disfruto trabajando con Python, explorando algoritmos de IA, y analizando datos para descubrir insights valiosos.
-- 📚 **Filosofía:** "Mantener la curiosidad viva y compartir conocimiento."
+- 🌱 **Passions:** I'm fascinated by programming, artificial intelligence, and data science.
+- 💡 **Goal:** I believe in constant learning and evolving to improve every day.
+- 👨‍💻 **Technologies:** I enjoy working with Python, exploring AI algorithms, and analyzing data to discover valuable insights.
+- 📚 **Philosophy:** "Keep curiosity alive and share knowledge."
 
-Gracias por visitar mi perfil. ¡Explora!
+Thank you for visiting my profile. Explore!
