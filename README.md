@@ -9,4 +9,4 @@
 - 👨‍💻 **Tecnologías:** Disfruto trabajando con Python, explorando algoritmos de IA, y analizando datos para descubrir insights valiosos.
 - 📚 **Filosofía:** "Mantener la curiosidad viva y compartir conocimiento."
 
-Gracias por visitar mi perfil. ¡Explora
+Gracias por visitar mi perfil. ¡Explora!
